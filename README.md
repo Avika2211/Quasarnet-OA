@@ -26,7 +26,7 @@ Features:
 
 Tech: Python • PyTorch • Flask
 
-MIT License • YourName
+MIT License • Avika
 
 Copy
 
